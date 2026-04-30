@@ -14,4 +14,5 @@
 - 包含工作流与测试用例
 
 ## 项目截图
+<img width="1902" height="865" alt="image" src="https://github.com/user-attachments/assets/0b256831-7446-477b-baf3-a20b81c7799b" />
 
